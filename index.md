@@ -1,37 +1,89 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/tranzystorek-io/tranzystorek-io.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+```shell
+$ whoami
+Marcin Puc
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+$ hostname
+Warsaw, Poland
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I'm Marcin, a computer science enthusiast from Poland. This is my web portfolio.
 
-### Jekyll Themes
+Professionally I aim to create clean code with transparent architecture and applied best practices,
+e.g. the functional paradigm, design patterns.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tranzystorek-io/tranzystorek-io.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+My programming knowledge originates from the **C++** language. That said, I enjoy learning any interesting or useful tools.
+Among my most preferred ones are **Rust**, **Haskell**, **Python**.
 
-### Support or Contact
+In my leisure time I play video games, mostly indie.
+These include [Dead Cells](https://dead-cells.com/), [Slay the Spire](https://www.megacrit.com/),
+[CrossCode](http://www.cross-code.com/en/home), [Terraria](http://terraria.org/) and many others.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Also music! I listen to many genres, for example see my
+[sovietwave playlist](https://open.spotify.com/playlist/4VeiwlzZcdkjeimX6fd5CS?si=eKGrlopwRfyJOY8xyOHdnw).
+
+## Advent of code
+
+A special mention, [advent of code](https://adventofcode.com/) is a programming event happening each year in the Christmas season.
+
+For me it's an opportunity to challenge myself, learn new languages or techniques etc.
+Check out my [repo](https://github.com/tranzystorek-io/aoc2019) with solutions to the 2019 edition.
+
+## Projects
+
+These selected entries highlight various fields of my experience.
+
+### [pinfs](https://gitlab.com/Tranzystorek/pinfs)
+
+A simplified distributed filesystem.
+
+Files are spread across a small P2P network using a [DHT table](https://en.wikipedia.org/wiki/Distributed_hash_table),
+specifically the Kademlia implementation.
+
+### [langust](https://gitlab.com/Tranzystorek/langust)
+
+A small language for operating on lists, along with an interpreter.
+
+Its syntax has been designed from scratch, including an LL parser.
+
+### [hexers](https://github.com/tranzystorek-io/hexers)
+
+A very small Rust library for converting byte sequences into hex-encoded character sequences.
+
+## Boring lists
+
+### Environments
+
+* Linux
+* bash, zsh
+
+### Languages
+
+* C/C++ (mostly the latter)
+* Rust
+* Python (scripting)
+* Java SE (basics)
+* Various FP fundamentals (Haskell, Scala, Elixir)
+
+### Frameworks and libraries
+
+* Protobuf
+* Qt (basics)
+* Flask (very simple web applications)
+
+### Tools
+
+* Git
+* GitHub (managing projects)
+* Gerrit (as a user)
+* Jenkins (as a user)
+* Conan (C++ package management)
+* CMake
+* LaTex
+
+### Unit testing
+
+* GTest/GMock
+* Catch2
+* JUnit / TestNg
