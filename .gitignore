@@ -1,0 +1,7 @@
+# bundler installation
+.bundle/
+vendor/bundle/
+Gemfile.lock
+
+# jekyll generated files
+_site/
