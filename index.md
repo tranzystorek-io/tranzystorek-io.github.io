@@ -14,7 +14,7 @@ Professionally I aim to create clean code with transparent architecture and appl
 e.g. the functional paradigm, design patterns.
 
 My programming knowledge originates from the **C++** language. That said, I enjoy learning any interesting or useful tools.
-Among my most preferred ones are **Rust**, **Haskell**, **Python**.
+Among my most preferred ones are **Rust**, **Python**, **Haskell**.
 
 In my leisure time I play video games, mostly indie.
 These include [Dead Cells](https://dead-cells.com/), [Slay the Spire](https://www.megacrit.com/),
