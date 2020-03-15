@@ -32,30 +32,30 @@ Also music! I listen to many genres, for example see my
 A special mention, [advent of code](https://adventofcode.com/) is a programming event happening each year in the Christmas season.
 
 For me it's an opportunity to challenge myself, learn new languages or techniques etc.
-Check out my [<i class="devicon-github-plain"></i> repo](https://github.com/tranzystorek-io/aoc2019) with solutions to the 2019 edition.
+Check out my [<i class="fab fa-github"></i> repo](https://github.com/tranzystorek-io/aoc2019) with solutions to the 2019 edition.
 
 ## `$ bash portfolio.sh projects`
 
 These selected entries highlight various fields of my experience.
 
-### <i class="devicon-cplusplus-plain"></i> [pinfs](https://gitlab.com/Tranzystorek/pinfs)
+### <i class="icon-cplusplus"></i> [pinfs](https://gitlab.com/Tranzystorek/pinfs)
 
 A simplified distributed filesystem.
 
 Files are spread across a small P2P network using a [DHT table](https://en.wikipedia.org/wiki/Distributed_hash_table),
 specifically the Kademlia implementation.
 
-### <i class="devicon-cplusplus-plain"></i> [langust](https://gitlab.com/Tranzystorek/langust)
+### <i class="icon-cplusplus"></i> [langust](https://gitlab.com/Tranzystorek/langust)
 
 A small language for operating on lists, along with an interpreter.
 
 Its syntax has been designed from scratch, including an LL parser.
 
-### <i class="devicon-cplusplus-plain"></i> [strata-solver](https://github.com/tranzystorek-io/strata-solver)
+### <i class="icon-cplusplus"></i> [strata-solver](https://github.com/tranzystorek-io/strata-solver)
 
 A solver for the [Strata](http://www.graveck.com/strata/) puzzle game.
 
-### [hexers](https://github.com/tranzystorek-io/hexers)
+### <i class="icon-rust"></i> [hexers](https://github.com/tranzystorek-io/hexers)
 
 A very small Rust library for converting byte sequences into hex-encoded character sequences.
 
@@ -65,16 +65,16 @@ People are poorly defined by lengthy lists, but have a read anyway.
 
 ### Environments
 
-* <i class="devicon-linux-plain"></i> Linux
-* <i class="fas fa-terminal"></i> bash, zsh
+* <i class="fab fa-linux"></i> Linux
+* <i class="icon-shell"></i> bash, zsh
 
 ### Languages
 
-* <i class="devicon-cplusplus-plain"></i> C/C++ (mostly the latter)
-* Rust
-* <i class="devicon-python-plain"></i> Python (scripting)
-* <i class="devicon-java-plain"></i> Java SE (basics)
-* Various FP fundamentals (Haskell, Scala, Elixir)
+* <i class="icon-cplusplus"></i> C/C++ (mostly the latter)
+* <i class="icon-rust"></i> Rust
+* <i class="icon-python"></i> Python (scripting)
+* <i class="icon-java-bold"></i> Java SE (basics)
+* <i class="icon-haskell"></i> Various FP fundamentals (Haskell, Scala, Elixir)
 
 ### Frameworks and libraries
 
@@ -84,8 +84,8 @@ People are poorly defined by lengthy lists, but have a read anyway.
 
 ### Tools
 
-* <i class="devicon-git-plain"></i> Git
-* <i class="devicon-github-plain"></i> GitHub (managing projects)
+* <i class="icon-git"></i> Git
+* <i class="fab fa-github"></i> GitHub (managing projects)
 * Gerrit (as a user)
 * <i class="fab fa-jenkins"></i> Jenkins (as a user)
 * Conan (C++ package management)
