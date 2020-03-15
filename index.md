@@ -47,6 +47,10 @@ A small language for operating on lists, along with an interpreter.
 
 Its syntax has been designed from scratch, including an LL parser.
 
+### [strata-solver](https://github.com/tranzystorek-io/strata-solver)
+
+A solver for the [Strata](http://www.graveck.com/strata/) puzzle game.
+
 ### [hexers](https://github.com/tranzystorek-io/hexers)
 
 A very small Rust library for converting byte sequences into hex-encoded character sequences.
