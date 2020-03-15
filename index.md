@@ -1,12 +1,12 @@
-## About me
-
-```shell
-$ whoami
-Marcin Puc
-
-$ hostname
-Warsaw, Poland
-```
+---
+layout: single
+title: 'Portfolio'
+author_profile: true
+toc: true
+toc_label: 'Contents'
+toc_sticky: true
+---
+## `$ bash portfolio.sh about`
 
 I'm Marcin, a computer science enthusiast from Poland. This is my web portfolio.
 
@@ -23,14 +23,14 @@ These include [Dead Cells](https://dead-cells.com/), [Slay the Spire](https://ww
 Also music! I listen to many genres, for example see my
 [sovietwave playlist](https://open.spotify.com/playlist/4VeiwlzZcdkjeimX6fd5CS?si=eKGrlopwRfyJOY8xyOHdnw).
 
-## Advent of code
+## `$ bash portfolio.sh aoc`
 
 A special mention, [advent of code](https://adventofcode.com/) is a programming event happening each year in the Christmas season.
 
 For me it's an opportunity to challenge myself, learn new languages or techniques etc.
 Check out my [repo](https://github.com/tranzystorek-io/aoc2019) with solutions to the 2019 edition.
 
-## Projects
+## `$ bash portfolio.sh projects`
 
 These selected entries highlight various fields of my experience.
 
@@ -51,7 +51,9 @@ Its syntax has been designed from scratch, including an LL parser.
 
 A very small Rust library for converting byte sequences into hex-encoded character sequences.
 
-## Boring lists
+## `$ bash portfolio.sh tech`
+
+People are poorly defined by lengthy lists, but have a read anyway.
 
 ### Environments
 

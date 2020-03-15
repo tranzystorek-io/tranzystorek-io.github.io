@@ -1,3 +1,23 @@
-theme: jekyll-theme-minimal
+remote_theme: 'mmistakes/minimal-mistakes@4.19.0'
 title: 'Marcin Puc'
-description: 'My (mostly) professional portfolio'
+title_separator: '|'
+subtitle: 'My (mostly) professional portfolio'
+repository: 'tranzystorek-io/tranzystorek-io.github.io'
+
+minimal_mistakes_skin: 'dark'
+
+author:
+  name: 'Marcin Puc'
+  location: 'Warsaw, Poland'
+  bio: 'I like to get my head around (an interesting) problem. The feeling of finding a solution is priceless'
+  avatar: '/assets/images/bio-photo.jpg'
+  links:
+    - label: 'GitHub'
+      icon: 'fab fa-fw fa-github'
+      url: 'https://github.com/tranzystorek-io'
+    - label: 'GitLab'
+      icon: 'fab fa-fw fa-gitlab'
+      url: 'https://gitlab.com/Tranzystorek'
+
+plugins:
+  - jekyll-include-cache
