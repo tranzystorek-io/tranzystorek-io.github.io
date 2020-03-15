@@ -9,7 +9,7 @@ minimal_mistakes_skin: 'dark'
 author:
   name: 'Marcin Puc'
   location: 'Warsaw, Poland'
-  bio: 'I like to get my head around (an interesting) problem. The feeling of finding a solution is priceless'
+  bio: 'I like to get my head around (an interesting) problem. The feeling of finding a solution is priceless.'
   avatar: '/assets/images/bio-photo.jpg'
   links:
     - label: 'GitHub'
