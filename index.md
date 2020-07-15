@@ -85,7 +85,7 @@ People are poorly defined by lengthy lists, but have a read anyway.
 ### Tools
 
 * <i class="icon-git"></i> Git
-* <i class="fab fa-github"></i> GitHub (managing projects)
+* <i class="fab fa-github"></i> GitHub (managing projects, submitting pull requests)
 * Gerrit (as a user)
 * <i class="fab fa-jenkins"></i> Jenkins (as a user)
 * Conan (C++ package management)
