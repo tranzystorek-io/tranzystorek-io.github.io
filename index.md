@@ -51,7 +51,7 @@ A small language for operating on lists, along with an interpreter.
 
 Its syntax has been designed from scratch, including an LL parser.
 
-### <i class="icon-cplusplus"></i> [strata-solver](https://github.com/tranzystorek-io/strata-solver)
+### <i class="icon-rust"></i> [untangle](https://github.com/tranzystorek-io/untangle)
 
 A solver for the [Strata](http://www.graveck.com/strata/) puzzle game.
 
