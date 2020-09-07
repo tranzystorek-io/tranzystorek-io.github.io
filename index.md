@@ -73,7 +73,7 @@ The solver itself is dead-simple; this project aims to stand apart when it comes
 the design of an application: separated **CLI interface <-> library** architecture,
 reusing code from libraries, informative error handling etc.
 
-It also shows off some clean and slick Rust :smile:
+It also shows off some clean and slick Rust :sunglasses:
 
 ### <i class="icon-rust"></i> [hexers](https://github.com/tranzystorek-io/hexers)
 
