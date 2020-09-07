@@ -21,3 +21,4 @@ author:
 
 plugins:
   - jekyll-include-cache
+  - jemoji
