@@ -53,7 +53,13 @@ Its syntax has been designed from scratch, including an LL parser.
 
 ### <i class="icon-rust"></i> [untangle](https://github.com/tranzystorek-io/untangle)
 
-A solver for the [Strata](http://www.graveck.com/strata/) puzzle game.
+A solver for the [Strata](https://store.steampowered.com/app/286380/Strata/) puzzle game.
+
+The solver itself is dead-simple; this project aims to stand apart when it comes to
+the design of an application: separated **CLI interface <-> library** architecture,
+reusing code from libraries, informative error handling etc.
+
+It also shows off some clean and slick Rust :)
 
 ### <i class="icon-rust"></i> [hexers](https://github.com/tranzystorek-io/hexers)
 
