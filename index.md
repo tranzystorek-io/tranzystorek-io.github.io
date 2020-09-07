@@ -65,6 +65,9 @@ It also shows off some clean and slick Rust :smile:
 
 A very small Rust library for converting byte sequences into hex-encoded character sequences.
 
+The central piece here is understanding and implementing Rust's
+[Iterator](https://doc.rust-lang.org/std/iter/trait.Iterator.html)-oriented data processing.
+
 ## `$ bash portfolio.sh tech`
 
 People are poorly defined by lengthy lists, but have a read anyway.
