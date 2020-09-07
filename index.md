@@ -47,8 +47,22 @@ specifically the Kademlia implementation.
 
 ### <i class="icon-cplusplus"></i> [langust](https://gitlab.com/Tranzystorek/langust)
 
-A small language for operating on lists, along with an interpreter.
+A small Python-esque language for operating on lists, along with an interpreter.
 
+Its sample feature - `map` and `filter` operators that apply functions to lists:
+
+```console
+$ l = [0, 1, 2, 3];
+[ 0, 1, 2, 3 ]
+
+$ l >: func(el) {return el+1;};
+[ 1, 2, 3, 4 ]
+
+$ l >? func(el) {return el < 2;};
+[ 0, 1 ]
+```
+
+My first ever attempt at creating a whole programming language.
 Its syntax has been designed from scratch, including an LL parser.
 
 ### <i class="icon-rust"></i> [untangle](https://github.com/tranzystorek-io/untangle)
