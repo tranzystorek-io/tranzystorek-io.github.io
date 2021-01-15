@@ -45,7 +45,7 @@ A simplified distributed filesystem.
 Files are spread across a small P2P network using a [DHT table](https://en.wikipedia.org/wiki/Distributed_hash_table),
 specifically the Kademlia implementation.
 
-### <i class="icon-cplusplus"></i> [langust](https://gitlab.com/Tranzystorek/langust)
+### <i class="icon-cplusplus"></i> [langust](https://github.com/tranzystorek-io/langust)
 
 A small Python-esque language for operating on lists, along with an interpreter.
 
