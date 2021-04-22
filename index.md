@@ -97,7 +97,7 @@ People are poorly defined by lengthy lists, but have a read anyway.
 * <i class="icon-rust"></i> Rust
 * <i class="icon-python"></i> Python (scripting)
 * <i class="icon-java-bold"></i> Java SE (basics)
-* <i class="icon-haskell"></i> Various FP fundamentals (Haskell, Scala, Elixir)
+* <i class="icon-haskell"></i> Various FP basics (Haskell, F#, Elixir)
 
 ### Frameworks and libraries
 
