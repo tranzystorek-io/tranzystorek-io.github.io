@@ -32,7 +32,10 @@ Also music! I listen to many genres, for example see my
 A special mention, [advent of code](https://adventofcode.com/) is a programming event happening each year in the Christmas season.
 
 For me it's an opportunity to challenge myself, learn new languages or techniques etc.
-Check out my [<i class="fab fa-github"></i> repo](https://github.com/tranzystorek-io/aoc2019) with solutions to the 2019 edition.
+Check out my solutions:
+
+- [<i class="fab fa-github"></i> aoc2019-python](https://github.com/tranzystorek-io/aoc2019-python)
+- [<i class="fab fa-github"></i> aoc2020-rust](https://github.com/tranzystorek-io/aoc2020-rust)
 
 ## `$ bash portfolio.sh projects`
 
